@@ -25,5 +25,4 @@ public class JavaSHA256 {
         System.out.print(hashValue);
     }
 
-
 }
